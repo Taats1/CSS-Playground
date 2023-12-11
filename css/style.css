@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Dhurjati&display=swap');
+
+body {
+    background-color: rgb(239, 222, 198);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: cyan;
+    font-family:'DM Serif Display', serif;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid grey; 
+    width: 55%; 
+    margin: 0 auto;
+}
+
+.main div {
+    height: 200px; 
+    width: 200px; 
+    border: 3px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: red;
+    text-align: center;
+    font-family:'Dhurjati', sans-serif;
+    font-size: 2rem;
+}
+
+
